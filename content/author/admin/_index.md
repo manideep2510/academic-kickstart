@@ -34,15 +34,15 @@ interests = [
   institution = "IIT Guwahati"
   year = 2020
 
-<!--[[education.courses]]
+[[education.courses]]
   course = "MEng in Artificial Intelligence"
   institution = "Massachusetts Institute of Technology"
-  year = 2009-->
+  year = 2009
 
-<!--[[education.courses]]
+[[education.courses]]
   course = "BSc in Artificial Intelligence"
   institution = "Massachusetts Institute of Technology"
-  year = 2008-->
+  year = 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -59,10 +59,10 @@ interests = [
   icon_pack = "fab"
   link = "https://twitter.com/manideep2510"
 
-<!--[[social]]
+[[social]]
   icon = "google-scholar"
   icon_pack = "ai"
-  link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ" -->
+  link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
 
 [[social]]
   icon = "github"
